@@ -1,4 +1,3 @@
-# internship-learning
 # Internship Learning
 
 This repository contains my learning and practice work during my internship.
